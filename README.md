@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning systems development
 - 🤔 I'm looking for help with programming and databases
 - 📫 How to reach me: vitorkc2023@gmail.com
-- ⚡ Fun fact: I like play footbaal, I play on computer
+- ⚡ Fun fact: I like play footbaal, play incomputer
 
