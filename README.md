@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/Vitorkc/Vitorkc/blob/main/senai-logo-3.png)
 # hi
 ## hi
 ### hi
