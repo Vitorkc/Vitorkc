@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vitorkc2023@gmail.com
 - ⚡ Fun fact: I like play footbaal, play incomputer
 - <a href="https://github.com/Vitorkc/Vitorkc/blob/main/CURRICULO%20VITOR.pdf" class="nav-link">**Curriculo**</a>
-[![Vitorkc GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorkc&show_icons=true&theme=dark)](https://github.com/Vitorkc/github-readme-stats)
+[![Vitorkc GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorkc&show_icons=true&theme=tokyonight)](https://github.com/Vitorkc/github-readme-stats)
 
 <div style ="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
